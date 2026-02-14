@@ -1,10 +1,16 @@
 {
   "version": 1,
   "updatedAt": "2026-02-14",
-  "stations": [],
-  "menus": {
-    "countries": [],
-    "genres": [],
-    "languages": []
-  }
+  "stations": [
+    {
+      "id": "wnyc",
+      "name": "WNYC 93.9 FM",
+      "country": "United States",
+      "city": "New York",
+      "description": "News, talk & culture.",
+      "stream": "https://fm939.wnyc.org/wnycfm",
+      "tags": ["usa","news","talk"]
+    }
+  ]
 }
+
