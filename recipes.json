@@ -1,0 +1,67 @@
+[
+  {
+    "id": "po-zapiekanki",
+    "name": "Zapiekanki",
+    "country": "Poland",
+    "region": "Europe",
+    "time": 30,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [],
+    "ingredients": [
+      "Baguette – 2",
+      "Butter – 1 tbsp",
+      "Vegetable Oil – 2 tsp",
+      "Onion – 1 chopped",
+      "Mushrooms – 300g",
+      "Garlic – 1 clove",
+      "Mayonnaise – 1 tbsp",
+      "Cheddar Cheese – 50g",
+      "Ham – 75g",
+      "Polish Kabanos – 75g",
+      "Mozzarella – 50g",
+      "Dill – some",
+      "Chives – 1 tbsp",
+      "Tomato Ketchup – drizzle"
+    ],
+    "steps": [
+      "Heat oven to 200°C and bake baguettes 8–10 min.",
+      "Sauté onion in butter and oil, add mushrooms, cook until liquid evaporates.",
+      "Stir in garlic, seasoning and mayonnaise.",
+      "Split baguettes lengthwise, spread mushroom mix, top with cheeses, ham and kabanos, bake 8–10 min.",
+      "Top with caramelised onions, dill, chives and ketchup."
+    ],
+    "note": "Imported from TheMealDB"
+  },
+  {
+    "id": "sl-zemiakov-placky",
+    "name": "Zemiakové Placky",
+    "country": "Slovakia",
+    "region": "Europe",
+    "time": 30,
+    "servings": "4 servings",
+    "category": "Street food",
+    "difficulty": "medium",
+    "tags": [],
+    "ingredients": [
+      "Potatoes – 1 kg",
+      "Onion – 1 chopped",
+      "Garlic – 2 cloves",
+      "Eggs – 4",
+      "Flour – 4 tbsp",
+      "Marjoram – 1 tsp",
+      "Salt – to taste",
+      "Black Pepper – to taste",
+      "Oil – for frying"
+    ],
+    "steps": [
+      "Peel and grate potatoes, squeeze moisture.",
+      "Mix potatoes with onion, garlic, eggs, flour, marjoram, salt and pepper.",
+      "Heat oil in pan.",
+      "Fry thin pancakes until golden on both sides.",
+      "Drain on paper towels and serve hot."
+    ],
+    "note": "Imported from TheMealDB"
+  }
+]
