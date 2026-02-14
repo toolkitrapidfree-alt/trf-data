@@ -1,16 +1,78 @@
 {
   "version": 1,
   "updatedAt": "2026-02-14",
+
   "stations": [
     {
       "id": "wnyc",
       "name": "WNYC 93.9 FM",
       "country": "United States",
       "city": "New York",
-      "description": "News, talk & culture.",
+      "description": "News, talk & culture - New York Public Radio.",
       "stream": "https://fm939.wnyc.org/wnycfm",
-      "tags": ["usa","news","talk"]
+      "tags": ["usa","news","talk","public"]
+    },
+    {
+      "id": "wqxr",
+      "name": "WQXR 105.9",
+      "country": "United States",
+      "city": "New York",
+      "description": "Classical - New York’s classical radio.",
+      "stream": "https://stream.wqxr.org/wqxr",
+      "tags": ["usa","classical","music"]
+    },
+    {
+      "id": "newsounds",
+      "name": "New Sounds",
+      "country": "United States",
+      "city": "New York",
+      "description": "Eclectic & experimental - world, ambient.",
+      "stream": "https://q2stream.wqxr.org/q2",
+      "tags": ["usa","music","chill","webradio"]
+    },
+    {
+      "id": "bbcws",
+      "name": "BBC World Service",
+      "country": "UK",
+      "city": "London",
+      "description": "International news & talk in English.",
+      "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "tags": ["uk","news","talk"]
+    },
+    {
+      "id": "rp-main",
+      "name": "Radio Paradise (Main Mix)",
+      "country": "WEB",
+      "city": "Global",
+      "description": "Eclectic rock, indie, world - no ads.",
+      "stream": "https://stream.radioparadise.com/mp3-192",
+      "tags": ["music","chill","webradio"]
+    },
+    {
+      "id": "rp-mellow",
+      "name": "Radio Paradise (Mellow)",
+      "country": "WEB",
+      "city": "Global",
+      "description": "Downtempo, mellow, chill-out.",
+      "stream": "https://stream.radioparadise.com/mellow-128",
+      "tags": ["music","chill","webradio"]
+    },
+    {
+      "id": "somafm-gs",
+      "name": "SomaFM - Groove Salad",
+      "country": "WEB",
+      "city": "San Francisco",
+      "description": "Ambient / downtempo beats for work.",
+      "stream": "https://ice2.somafm.com/groovesalad-128-mp3",
+      "tags": ["music","chill","webradio"]
     }
-  ]
+  ],
+
+  "menus": {
+    "countries": ["United States","UK","WEB"],
+    "genres": ["news","talk","classical","music","chill"],
+    "languages": ["en"]
+  }
 }
+
 
